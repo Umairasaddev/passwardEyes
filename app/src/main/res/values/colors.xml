@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="colorPrimary">#B13B3B</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+    <color name="coloricon">#a2a2a2</color>
+    <color name="colorPrimaryDark">#176f5a</color>
+    <color name="colorAccent">#176f5a</color>
+    <color name="blackBackground">#1d1c1c</color>
+    <color name="blackcolor">#000</color>
+
+    <color name="red">#FF0000</color>
+    <color name="textColorPrimary">#000000</color>
+    <color name="text_color_blue">#396792</color>
+    <color name="linecolor">#b94a50</color>
+    <color name="slice_color">#5243ae</color>
+    <color name="slice_color_2">#ff6c2e</color>
+    <color name="slice_color_3">#398ddc</color>
+    <color name="slice_color_4">#a9ae16</color>
+    <color name="greyBar">#eae9e9</color>
+    <color name="app_color">#176f5a</color>
+
+    <color name="symbolgrey">#E8E8E8</color>
+
+    <color name="blinkGreen">#176f5a</color>
+    <color name="blinkRed">#ff0000</color>
+    <color name="greyDarkBar">#ff0000</color>
+
+    <color name="blinkGrey">#555555</color>
+    <color name="default_slice_color">#88FF0000</color>
+    <color name="default_line_color">#88FFFFFF</color>
+    <color name="lightgrey">#EFEFEF</color>
+    <color name="lightgrey1">#E8E8E8</color>
+    <color name="greybar">#eaeaea</color>
+
+    <color name="buy_sell_bg">#F5F5F5</color>
+
+    <color name="buy_color">#39A14F</color>
+
+    <color name="text_color_order_screen">#464646</color>
+    <color name="selected">#44AC4B</color>
+    <color name="unselected">#E8E8E8</color>
+    <color name="yellow_color">#e8bf19</color>
+
+    <color name="red_color">#BC1E2E</color>
+
+    <color name="buying_power_color">#A5A7AA</color>
+
+
+    <color name="viewpager_unselected">#e8bf19</color>
+
+    <color name="divider_color">#B8BBBD</color>
+
+    <color name="redColor">#BC1E2E</color>
+    <color name="yellowColor">#e8bf19</color>
+    <color name="greyColor">#e9e9e9</color>
+    <color name="preview_color">#717171</color>
+
+    <color name="new_dialog_bg_color">#B3B3B3</color>
+    <color name="new_dialog_trade_btn">#19AB5D</color>
+    <color name="new_dialog_cancel_stroke">#8F8F8F</color>
+    <color name="new_dialog_trade_btn_stroke">#0D8B48</color>
+
+    <color name="new_color_account_open">#0FAC3B</color>
+</resources>
